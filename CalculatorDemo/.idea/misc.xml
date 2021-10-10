@@ -3,7 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/AndroidStudio/CalculatorDemo/app/src/main/res/layout/activity_main.xml" value="0.2179824561403509" />
+        <entry key="..\:/AndroidStudio/CalculatorDemo/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/AndroidStudio/CalculatorDemo/app/src/main/res/layout-land/activity1_main.xml" value="0.21119929453262787" />
+        <entry key="..\:/AndroidStudio/CalculatorDemo/app/src/main/res/layout-land/activity_main.xml" value="0.2791922739244952" />
+        <entry key="..\:/AndroidStudio/CalculatorDemo/app/src/main/res/layout-land/activitys_main.xml" value="0.33" />
+        <entry key="..\:/AndroidStudio/CalculatorDemo/app/src/main/res/layout-port/activity_main.xml" value="0.2864035087719298" />
+        <entry key="..\:/AndroidStudio/CalculatorDemo/app/src/main/res/layout-port/activitys_main.xml" value="0.2868421052631579" />
+        <entry key="..\:/AndroidStudio/CalculatorDemo/app/src/main/res/layout/activity_main.xml" value="0.2789473684210526" />
+        <entry key="..\:/AndroidStudio/CalculatorDemo/app/src/main/res/layout/activitys_main.xml" value="0.2868421052631579" />
+        <entry key="..\:/AndroidStudio/CalculatorDemo/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/AndroidStudio/CalculatorDemo/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
       </map>
     </option>
   </component>
